@@ -15,11 +15,12 @@ text-shadow:    none;
 
   .jumbotron {
   background-image:url("../../assets/images/background.jpg");
-  height: 550px;
+
+  height:550px ;
   background-repeat: no-repeat;
   background-size: cover;
-  margin:0px;
-
+  width:100%;
+  
 
 }
 
